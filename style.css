@@ -53,3 +53,8 @@ h5 {
 span {
   font-weight: bold;
 }
+@media (max-width:758px){
+  .container-fluid{
+    padding: 0px;
+  }
+}
