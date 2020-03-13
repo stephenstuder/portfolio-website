@@ -28,21 +28,27 @@ iframe {
 }
 h1 {
   font-size: 3em;
+  line-height: 4.5em;
 }
 h2 {
   font-size: 2.25em;
+  line-height: 3.4em
 }
 h3 {
   font-size: 1.75em;
+  line-height: 2.6em;
 }
 h4 {
   font-size: 1.5em;
+  line-height: 2.25em;
 }
 h5 {
   margin-bottom: 0 !important;
+  line-height: 1.5em;
 }
 .container-fluid {
   height: 90vh;
+  padding: 0px 100px;
 }
 span {
   font-weight: bold;
