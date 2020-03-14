@@ -4,11 +4,11 @@ A small website that will be the landing page for employers to access my social 
 
 ## link to website
 
-[a link](https://stephenstuder.com)
+[stephenstuder.com](https://stephenstuder.com)
 
 ## screenshot
 
-![Screenshot](./images/screenshot.png)
+<img src="./images/screenshot.png" alt="screenshot of webpage" width="500"/>
 
 ## how it was created
 
