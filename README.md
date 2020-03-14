@@ -2,9 +2,11 @@
 
 A small website that will be the landing page for employers to access my social profiles and best portfolio work
 
-## link to website stephenstuder.com
+## link to website 
+stephenstuder.com
 
 ## screenshot
+
 
 ## how it was created
 
