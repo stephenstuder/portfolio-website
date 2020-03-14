@@ -28,11 +28,11 @@ iframe {
 }
 h1 {
   font-size: 3em;
-  line-height: 4.5em;
+  
 }
 h2 {
   font-size: 2.25em;
-  line-height: 3.4em
+  
 }
 h3 {
   font-size: 1.75em;
@@ -57,4 +57,17 @@ span {
   position: fixed;
   left: 0;
   bottom: 0;
+}
+@media (max-width:758px){
+  .picture {
+    position: relative;
+    width:100px;
+  }
+  .container-fluid {
+    padding: 0;
+   
+  } 
+  .m-5 {
+    margin: 0rem;
+  }
 }
