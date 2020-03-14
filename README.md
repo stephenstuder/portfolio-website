@@ -8,7 +8,7 @@ A small website that will be the landing page for employers to access my social 
 
 ## screenshot
 
-<img src="./images/screenshot.png" alt="screenshot of webpage" width="500"/>
+<img src="./images/screenshot.PNG" alt="screenshot of webpage" width="500"/>
 
 ## how it was created
 
