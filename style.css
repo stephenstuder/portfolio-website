@@ -1,6 +1,6 @@
 body {
   background-color: #000000;
-  background : #020300;
+  background: #020300;
   font-family: "Roboto", sans-serif;
 }
 iframe {
@@ -40,10 +40,16 @@ h4 {
 }
 h5 {
   margin-bottom: 0 !important;
+  line-height: 30px;
 }
 .container-fluid {
   height: 90vh;
 }
 span {
   font-weight: bold;
+}
+.picture {
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
