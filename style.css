@@ -57,6 +57,9 @@ span {
   left: 0;
   bottom: 0;
 }
+.object-fit-cover{
+  object-fit: cover;
+}
 @media (max-width: 758px) {
   .picture {
     position: relative;
